@@ -15,7 +15,7 @@ No Activity tracked this Week
 
 ------
 
-[<img align="right" width="50%" src="https://www.clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=o2HGaalky8OiHBxnoPq9wPYTNv7qpo8ua9FG06sBqt4&co=2d78ad&ct=ffffff">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="right" width="50%" src="https://www.clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=o2HGaalky8OiHBxnoPq9wPYTNv7qpo8ua9FG06sBqt4&co=2d78ad&ct=ffffff">](https://github.com/lichlaughing)
 
 ```
   _  _         _   _       
