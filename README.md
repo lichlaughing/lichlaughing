@@ -9,10 +9,10 @@
 ------
 <!--START_SECTION:waka-->
 ```text
-Week: 05 April, 2021 - 12 April, 2021
+Week: 06 April, 2021 - 13 April, 2021
 
-Java         4 hrs 56 mins   ████████████████████████▓   98.07 % 
-XML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Java         4 hrs 43 mins   ████████████████████████▓   98.24 % 
+XML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 ```
 <!--END_SECTION:waka-->
 
