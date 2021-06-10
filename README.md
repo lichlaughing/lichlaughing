@@ -9,13 +9,13 @@
 ------
 <!--START_SECTION:waka-->
 ```text
-Week: 01 June, 2021 - 08 June, 2021
+Week: 02 June, 2021 - 09 June, 2021
 
-Java         33 hrs 55 mins  ████████████████████████▒   97.91 % 
-Properties   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Java         33 hrs 47 mins  ████████████████████████▓   98.03 % 
+Properties   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 SQL          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 <!--END_SECTION:waka-->
 
