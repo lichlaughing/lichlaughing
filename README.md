@@ -9,10 +9,12 @@
 ------
 <!--START_SECTION:waka-->
 ```text
-Week: 20 July, 2021 - 26 July, 2021
+Week: 21 July, 2021 - 27 July, 2021
 
-Java         20 hrs 44 mins  ████████████████████████▒   97.38 % 
-Properties   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Java         24 hrs 34 mins  ███████████████████████▓░   95.04 % 
+Bash         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Properties   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+SQL          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 <!--END_SECTION:waka-->
 
