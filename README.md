@@ -9,13 +9,13 @@
 ------
 <!--START_SECTION:waka-->
 ```text
-Week: 30 August, 2021 - 05 September, 2021
+Week: 31 August, 2021 - 06 September, 2021
 
-Java         13 hrs 15 mins  █████████████████████░░░░   84.66 % 
-XML          1 hr 54 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Properties   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Java         12 hrs 10 mins  ████████████████████▓░░░░   82.71 % 
+XML          1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Other        30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Properties   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 ```
 <!--END_SECTION:waka-->
 
