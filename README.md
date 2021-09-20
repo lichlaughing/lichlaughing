@@ -4,7 +4,7 @@
 - 💞️ I like to make friends in the learning process
 - 📫 I can be reached at `lichenghao.vip@qq.com`
 - 🔗 My blog address is `www.lichenghao.com.cn`
-- 📖 My study notes address is `www.lichenghao.com.cn/note`
+
 
 ------
 <!--START_SECTION:waka-->
