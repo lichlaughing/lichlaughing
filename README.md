@@ -2,9 +2,9 @@
 - 👋 Hi, I’m chenghao.li, work at `https://www.winicssec.com`
 - 👀 I’m interested in Java ,I’m constantly learning
 - 💞️ I like to make friends in the learning process
-- 📫 I can be reached at `story@lichenghao.com.cn`
+- 📫 I can be reached at `lichenghao.vip@qq.com`
 - 🔗 My blog address is `www.lichenghao.com.cn`
-- 📖 My study notes address is `es.lichenghao.com.cn`
+- 📖 My study notes address is `www.lichenghao.com.cn/note`
 
 ------
 <!--START_SECTION:waka-->
