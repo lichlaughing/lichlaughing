@@ -9,9 +9,9 @@
 ------
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2021 - 19 September, 2021
+Week: 14 September, 2021 - 20 September, 2021
 
-Java         21 hrs 7 mins   ███████████████████████▓░   94.32 % 
+Java         21 hrs 7 mins   ███████████████████████▓░   94.33 % 
 XML          36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 Properties   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 SQL          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
