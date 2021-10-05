@@ -9,13 +9,13 @@
 ------
 <!--START_SECTION:waka-->
 ```text
-Week: 27 September, 2021 - 03 October, 2021
+Week: 28 September, 2021 - 04 October, 2021
 
-Java         7 hrs 10 mins   ███████████████████████░░   92.45 % 
-Groovy       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-Properties   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-YAML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Java         3 hrs 28 mins   █████████████████████▓░░░   87.19 % 
+Groovy       18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Properties   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+YAML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 <!--END_SECTION:waka-->
 
