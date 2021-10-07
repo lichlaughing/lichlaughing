@@ -9,9 +9,7 @@
 ------
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2021 - 05 October, 2021
-
-Java   1 hr 26 mins    █████████████████████████   99.40 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
