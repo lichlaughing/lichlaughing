@@ -9,12 +9,12 @@
 ------
 <!--START_SECTION:waka-->
 ```text
-Week: 05 October, 2021 - 11 October, 2021
+Week: 06 October, 2021 - 12 October, 2021
 
-Java         8 hrs 1 min     ███████████████████████▓░   94.13 % 
-Properties   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-XML          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Java         11 hrs 20 mins  ███████████████████████▓░   94.80 % 
+Properties   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+XML          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 <!--END_SECTION:waka-->
 
