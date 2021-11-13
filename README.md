@@ -9,12 +9,9 @@
 ------
 <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2021 - 11 November, 2021
+Week: 06 November, 2021 - 12 November, 2021
 
-Java         4 hrs 52 mins   ████████████████████░░░░░   80.50 % 
-Other        51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Properties   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-XML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Java   2 hrs 31 mins   █████████████████████████   99.82 % 
 ```
 <!--END_SECTION:waka-->
 
