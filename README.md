@@ -9,9 +9,10 @@
 ------
 <!--START_SECTION:waka-->
 ```text
-Week: 15 November, 2021 - 21 November, 2021
+Week: 16 November, 2021 - 22 November, 2021
 
-Java   8 mins          █████████████████████████   100.00 % 
+JSON   7 mins          █████████████████▓░░░░░░░   71.20 % 
+Java   2 mins          ███████▒░░░░░░░░░░░░░░░░░   28.80 % 
 ```
 <!--END_SECTION:waka-->
 
