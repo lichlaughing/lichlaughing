@@ -9,11 +9,11 @@
 ------
 <!--START_SECTION:waka-->
 ```text
-Week: 22 November, 2021 - 28 November, 2021
+Week: 23 November, 2021 - 29 November, 2021
 
-Java             1 hr 8 mins     ███████████████████░░░░░░   76.59 % 
-GitIgnore file   13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-JSON             7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Java             9 hrs 54 mins   ████████████████████████▒   97.26 % 
+GitIgnore file   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+SQL              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 <!--END_SECTION:waka-->
 
