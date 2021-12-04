@@ -3,7 +3,7 @@
 - 👀 I’m interested in Java ,I’m constantly learning
 - 💞️ I like to make friends in the learning process
 - 📫 I can be reached at `lichenghao.vip@qq.com`
-- 🔗 My blog address is `www.lichenghao.com.cn`
+- 🔗 My blog address is `blog.lichenghao.com.cn`
 
 
 ------
