@@ -9,13 +9,13 @@
 ------
 <!--START_SECTION:waka-->
 ```text
-Week: 28 November, 2021 - 04 December, 2021
+Week: 29 November, 2021 - 05 December, 2021
 
-Java         39 hrs 5 mins   █████████████████████▓░░░   86.57 % 
-JavaScript   3 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Properties   1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-XML          55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-SQL          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Java         37 hrs 59 mins  █████████████████████▓░░░   86.24 % 
+JavaScript   3 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Properties   1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+XML          55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+SQL          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 <!--END_SECTION:waka-->
 
