@@ -9,7 +9,7 @@
 ------
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2021 - 30 December, 2021
+Week: 25 December, 2021 - 31 December, 2021
 
 Java       27 hrs 7 mins   ███████████████████████▓░   94.38 % 
 SQL        48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
