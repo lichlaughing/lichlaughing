@@ -9,13 +9,13 @@
 ------
 <!--START_SECTION:waka-->
 ```text
-Week: 14 January, 2022 - 20 January, 2022
+Week: 15 January, 2022 - 21 January, 2022
 
-Java             16 hrs 7 mins   ████████████████▓░░░░░░░░   67.01 % 
-XML              4 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Properties       56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-SQL              45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-GitIgnore file   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Java             13 hrs 10 mins  ███████████████▓░░░░░░░░░   63.19 % 
+XML              4 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Properties       47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+SQL              45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+GitIgnore file   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 ```
 <!--END_SECTION:waka-->
 
