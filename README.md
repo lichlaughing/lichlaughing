@@ -9,12 +9,12 @@
 ------
 <!--START_SECTION:waka-->
 ```text
-Week: 26 January, 2022 - 01 February, 2022
+Week: 27 January, 2022 - 02 February, 2022
 
-Java         11 hrs 12 mins  ████████████████████████░   95.76 % 
-SQL          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Properties   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-CLASS        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Java         4 hrs 41 mins   ███████████████████████░░   92.21 % 
+SQL          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+CLASS        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Properties   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 <!--END_SECTION:waka-->
 
