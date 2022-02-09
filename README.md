@@ -9,7 +9,12 @@
 ------
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 February, 2022 - 08 February, 2022
+
+Java         55 mins         ███████████████▒░░░░░░░░░   61.22 % 
+SQL          18 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.08 % 
+Properties   14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Text         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 <!--END_SECTION:waka-->
 
