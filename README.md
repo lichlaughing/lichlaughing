@@ -9,7 +9,7 @@
 ------
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2022 - 11 February, 2022
+Week: 06 February, 2022 - 12 February, 2022
 
 Java         8 hrs 5 mins    ███████████████████▒░░░░░   77.04 % 
 SQL          1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
