@@ -9,7 +9,7 @@
 ------
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
+Week: 13 February, 2022 - 19 February, 2022
 
 Java         20 hrs 37 mins  ██████████████████████▓░░   90.21 % 
 Properties   1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
