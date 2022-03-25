@@ -1,9 +1,9 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lichlaughing&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
-- 👋 Hi, I’m chenghao.li, work at `https://www.winicssec.com`
+- 👋 Hi, I’m chenghao.li
 - 👀 I’m interested in Java ,I’m constantly learning
 - 💞️ I like to make friends in the learning process
 - 📫 I can be reached at `lichenghao.vip@qq.com`
-- 🔗 My blog address is `blog.lichenghao.com.cn`
+- 🔗 My blog address is `https://blog.lichenghao.cn`
 
 
 ------
