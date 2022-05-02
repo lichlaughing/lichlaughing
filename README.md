@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2022 - To: 30 April 2022
+From: 24 April 2022 - To: 01 May 2022
 
-Java          6 hrs 32 mins   █████████████░░░░░░░░░░░░   52.02 %
-YAML          4 hrs 50 mins   █████████▓░░░░░░░░░░░░░░░   38.46 %
-XML           1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-IDEA_MODULE   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Java          4 hrs 59 mins   ███████████▓░░░░░░░░░░░░░   47.06 %
+YAML          4 hrs 29 mins   ██████████▓░░░░░░░░░░░░░░   42.41 %
+XML           1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+IDEA_MODULE   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
