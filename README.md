@@ -1,7 +1,5 @@
 
 - 👋 Hi, I’m chenghao.li
-- 👀 I’m interested in Java ,I’m constantly learning
-- 💞️ I like to make friends in the learning process
 - 📫 I can be reached at `lichenghao.vip@qq.com`
 - 🔗 My blog address is `https://blog.lichenghao.cn`
 
