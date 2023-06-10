@@ -1,6 +1,6 @@
 
-- 👋 Hi, I’m chenghao.li
-- 📫 I can be reached at `lichenghao.vip@qq.com`
+- 👋 Hi, I’m Lichlaughing
+- 📫 I can be reached at `lichlaughing@lichenghao.cn`
 - 🔗 My blog address is `https://blog.lichenghao.cn`
 
 
